@@ -17,5 +17,4 @@
 
 `rank`, `position`, `equipment`, `soldier`, `issue_history`, `transaction_history` 테이블과 조회용 VIEW 3개로 구성됩니다. 병력과 장비를 지급·회수 이력 테이블에서 참조합니다.
 
-
 [README로 돌아가기](../README.md)
